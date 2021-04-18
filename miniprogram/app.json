@@ -50,7 +50,7 @@
         }
     ],
     "window": {
-        "navigationBarTitleText": "租房小程序",
+        "navigationBarTitleText": "张窝信息台",
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
         "navigationBarTextStyle": "black"
